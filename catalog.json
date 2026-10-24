@@ -563,6 +563,8 @@
   {"id":"itm_twuatnkumwb","barcode":"0729","isbn":"9780811807586","title":"New and selected poems","author":"Gary Soto","publisher":"Chronicle Books","year":"1995","cover":"https://covers.openlibrary.org/b/id/599466-M.jpg","genre":"Plays & Poems","tags":["Mexican Americans","Poetry","Poetry (poetic works by one author)"],"notes":"","addedAt":"2026-10-21T04:21:28.811Z"},
   {"id":"itm_byt7s8ovhyh","barcode":"0728","isbn":"9780152000677","title":"Canto familiar","author":"Gary Soto","publisher":"Harcourt Brace & Co.","year":"1995","cover":"https://covers.openlibrary.org/b/id/112598-M.jpg","genre":"Plays & Poems","tags":["American poetry","Children's poetry","American","Juvenile poetry","Mexican American children"],"notes":"","addedAt":"2026-10-21T04:22:09.065Z"}
 ],
-"shelves": [],
+"shelves": [
+  {"id":"shf_qgo4sece7fk","code":"A1","name":"Left bookcase, Top Shelf","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-10-24T02:35:44.288Z"}
+],
 "settings": {"libraryName":"A103 Library","loanDays":14,"maxRenewals":2,"maxItems":0,"graceDays":0,"autoCreatePatrons":true,"barcodePrefix":"CL","nextBarcode":1,"labelPresets":[],"genres":["Adventure","Biography","Dystopian","Fantasy / Sci-Fi","Graphic Novels","Historical Fiction","Nonfiction","Plays & Poems","Realistic Fiction"],"genreSet":2}
 }
