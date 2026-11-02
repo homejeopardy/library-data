@@ -610,18 +610,18 @@
   {"id":"itm_u7uuu1bh12g","barcode":"0982","isbn":"9780140440225","title":"The Canterbury Tales","author":"Geoffrey Chaucer, John E. Cunningham, Peter Ackroyd, Ted Stearn, V. A. Kolve, Glending Olson","publisher":"Penguin Classics","year":"2000","cover":"https://covers.openlibrary.org/b/id/5767180-M.jpg","genre":"Plays & Poems","tags":["Death","English Narrative poetry","Juvenile poetry","Christian pilgrims and pilgrimages in literature"],"notes":"","addedAt":"2026-11-02T01:42:58.984Z","labeledAt":"2026-11-02T01:44:49.970Z"}
 ],
 "shelves": [
-  {"id":"shf_qgo4sece7fk","code":"A1","name":"Left bookcase, Top","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-10-24T02:35:44.288Z","cardPrintedAt":"2026-11-02T03:01:04.993Z","changedAt":"2026-11-02T02:34:47.489Z"},
-  {"id":"shf_gnbtjm49ner","code":"A2","name":"Left bookcase, Second down","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:33:13.923Z","cardPrintedAt":"2026-11-02T03:01:04.993Z"},
-  {"id":"shf_lko5hnba215","code":"A3","name":"Left bookcase, Third down","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:33:32.873Z","changedAt":"2026-11-02T02:34:00.944Z","cardPrintedAt":"2026-11-02T03:01:04.993Z"},
-  {"id":"shf_mjl9hqtaenw","code":"A4","name":"Left bookcase, Fourth down","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:33:49.244Z","cardPrintedAt":"2026-11-02T03:01:04.993Z"},
-  {"id":"shf_y3pcyd3bgvp","code":"B1","name":"Middle bookcase, Top","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:34:38.773Z","cardPrintedAt":"2026-11-02T03:01:04.993Z"},
-  {"id":"shf_o39erfmc7ck","code":"B2","name":"Middle bookcase, Second Down","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:35:13.076Z","cardPrintedAt":"2026-11-02T03:01:04.993Z"},
-  {"id":"shf_54tcz7dcg2w","code":"B3","name":"Middle bookcase, Third Down","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:35:24.392Z","cardPrintedAt":"2026-11-02T03:01:04.993Z"},
-  {"id":"shf_a766fotcodz","code":"B4","name":"Middle bookcase, Fourth Down","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:35:35.159Z","cardPrintedAt":"2026-11-02T03:01:04.993Z"},
-  {"id":"shf_hxhdglhd3ox","code":"C1","name":"Right bookcase, Top","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:35:54.993Z","cardPrintedAt":"2026-11-02T03:01:04.993Z"},
-  {"id":"shf_k7xpomcdb19","code":"C2","name":"Right bookcase, Second down","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:36:04.509Z","cardPrintedAt":"2026-11-02T03:01:04.993Z"},
-  {"id":"shf_8i3jr67dl3r","code":"C3","name":"Right bookcase, Third down","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:36:17.559Z","cardPrintedAt":"2026-11-02T03:01:04.993Z"},
-  {"id":"shf_zcoub07dtu4","code":"C4","name":"Right bookcase, Fourth down","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:36:28.876Z","cardPrintedAt":"2026-11-02T03:01:04.993Z"}
+  {"id":"shf_qgo4sece7fk","code":"A1","name":"Left bookcase, Top","fromLetters":"","toLetters":"","createdAt":"2026-10-24T02:35:44.288Z","cardPrintedAt":"2026-11-02T03:01:04.993Z","changedAt":"2026-11-02T02:34:47.489Z","genres":[]},
+  {"id":"shf_gnbtjm49ner","code":"A2","name":"Left bookcase, Second down","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:33:13.923Z","cardPrintedAt":"2026-11-02T03:01:04.993Z","genres":[]},
+  {"id":"shf_lko5hnba215","code":"A3","name":"Left bookcase, Third down","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:33:32.873Z","changedAt":"2026-11-02T02:34:00.944Z","cardPrintedAt":"2026-11-02T03:01:04.993Z","genres":[]},
+  {"id":"shf_mjl9hqtaenw","code":"A4","name":"Left bookcase, Fourth down","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:33:49.244Z","cardPrintedAt":"2026-11-02T03:01:04.993Z","genres":[]},
+  {"id":"shf_y3pcyd3bgvp","code":"B1","name":"Middle bookcase, Top","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:34:38.773Z","cardPrintedAt":"2026-11-02T03:01:04.993Z","genres":[]},
+  {"id":"shf_o39erfmc7ck","code":"B2","name":"Middle bookcase, Second Down","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:35:13.076Z","cardPrintedAt":"2026-11-02T03:01:04.993Z","genres":[]},
+  {"id":"shf_54tcz7dcg2w","code":"B3","name":"Middle bookcase, Third Down","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:35:24.392Z","cardPrintedAt":"2026-11-02T03:01:04.993Z","genres":[]},
+  {"id":"shf_a766fotcodz","code":"B4","name":"Middle bookcase, Fourth Down","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:35:35.159Z","cardPrintedAt":"2026-11-02T03:01:04.993Z","genres":[]},
+  {"id":"shf_hxhdglhd3ox","code":"C1","name":"Right bookcase, Top","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:35:54.993Z","cardPrintedAt":"2026-11-02T03:01:04.993Z","genres":[]},
+  {"id":"shf_k7xpomcdb19","code":"C2","name":"Right bookcase, Second down","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:36:04.509Z","cardPrintedAt":"2026-11-02T03:01:04.993Z","genres":[]},
+  {"id":"shf_8i3jr67dl3r","code":"C3","name":"Right bookcase, Third down","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:36:17.559Z","cardPrintedAt":"2026-11-02T03:01:04.993Z","genres":[]},
+  {"id":"shf_zcoub07dtu4","code":"C4","name":"Right bookcase, Fourth down","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:36:28.876Z","cardPrintedAt":"2026-11-02T03:01:04.993Z","genres":[]}
 ],
-"settings": {"libraryName":"A103 Library","loanDays":14,"maxRenewals":2,"maxItems":0,"graceDays":0,"autoCreatePatrons":true,"barcodePrefix":"CL","nextBarcode":1,"labelPresets":[],"holdSpot":"","genres":["Adventure","Biography","Dystopian","Fantasy / Sci-Fi","Graphic Novels","Historical Fiction","Nonfiction","Plays & Poems","Realistic Fiction"],"genreSet":2}
+"settings": {"libraryName":"A103 Library","loanDays":14,"maxRenewals":2,"maxItems":0,"graceDays":0,"autoCreatePatrons":true,"barcodePrefix":"CL","nextBarcode":1,"patronPrefix":"ST","nextPatronCard":1,"labelPresets":[],"holdSpot":"","genres":["Adventure","Biography","Dystopian","Fantasy / Sci-Fi","Graphic Novels","Historical Fiction","Nonfiction","Plays & Poems","Realistic Fiction"],"genreSet":2}
 }
