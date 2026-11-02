@@ -610,7 +610,7 @@
   {"id":"itm_u7uuu1bh12g","barcode":"0982","isbn":"9780140440225","title":"The Canterbury Tales","author":"Geoffrey Chaucer, John E. Cunningham, Peter Ackroyd, Ted Stearn, V. A. Kolve, Glending Olson","publisher":"Penguin Classics","year":"2000","cover":"https://covers.openlibrary.org/b/id/5767180-M.jpg","genre":"Plays & Poems","tags":["Death","English Narrative poetry","Juvenile poetry","Christian pilgrims and pilgrimages in literature"],"notes":"","addedAt":"2026-11-02T01:42:58.984Z","labeledAt":"2026-11-02T01:44:49.970Z"}
 ],
 "shelves": [
-  {"id":"shf_qgo4sece7fk","code":"A1","name":"Left bookcase, Top Shelf","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-10-24T02:35:44.288Z","cardPrintedAt":"2026-10-25T23:32:45.890Z"},
+  {"id":"shf_qgo4sece7fk","code":"A1","name":"Left bookcase, Top","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-10-24T02:35:44.288Z","cardPrintedAt":"2026-10-25T23:32:45.890Z","changedAt":"2026-11-02T02:34:47.489Z"},
   {"id":"shf_gnbtjm49ner","code":"A2","name":"Left bookcase, Second down","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:33:13.923Z"},
   {"id":"shf_lko5hnba215","code":"A3","name":"Left bookcase, Third down","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:33:32.873Z","changedAt":"2026-11-02T02:34:00.944Z"},
   {"id":"shf_mjl9hqtaenw","code":"A4","name":"Left bookcase, Fourth down","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:33:49.244Z"},
