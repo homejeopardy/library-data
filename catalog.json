@@ -620,7 +620,8 @@
   {"id":"shf_a766fotcodz","code":"B4","name":"Middle bookcase, Fourth Down","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:35:35.159Z"},
   {"id":"shf_hxhdglhd3ox","code":"C1","name":"Right bookcase, Top","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:35:54.993Z"},
   {"id":"shf_k7xpomcdb19","code":"C2","name":"Right bookcase, Second down","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:36:04.509Z"},
-  {"id":"shf_8i3jr67dl3r","code":"C3","name":"Right bookcase, Third down","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:36:17.559Z"}
+  {"id":"shf_8i3jr67dl3r","code":"C3","name":"Right bookcase, Third down","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:36:17.559Z"},
+  {"id":"shf_zcoub07dtu4","code":"C4","name":"Right bookcase, Fourth down","genre":"","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:36:28.876Z"}
 ],
 "settings": {"libraryName":"A103 Library","loanDays":14,"maxRenewals":2,"maxItems":0,"graceDays":0,"autoCreatePatrons":true,"barcodePrefix":"CL","nextBarcode":1,"labelPresets":[],"holdSpot":"","genres":["Adventure","Biography","Dystopian","Fantasy / Sci-Fi","Graphic Novels","Historical Fiction","Nonfiction","Plays & Poems","Realistic Fiction"],"genreSet":2}
 }
