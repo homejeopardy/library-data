@@ -51,7 +51,7 @@
   {"id":"pat_kq8wapyaoo0","name":"Gus Goldstein","barcode":"","group":"6","notes":"","createdAt":"2026-11-03T00:29:44.160Z"},
   {"id":"pat_5wazo1yaoo3","name":"Jayan Sheel","barcode":"","group":"6","notes":"","createdAt":"2026-11-03T00:29:44.163Z"},
   {"id":"pat_ksxtse0i8dj","name":"Ms. Manhoff","barcode":"","group":"Teacher","notes":"","createdAt":"2026-11-03T18:19:21.703Z"},
-  {"id":"pat_nfbf5sbihou","name":"Ms. Piper","barcode":"","group":"","notes":"","createdAt":"2026-11-03T18:19:33.774Z"}
+  {"id":"pat_nfbf5sbihou","name":"Ms. Piper","barcode":"","group":"Teacher (Admin)","notes":"","createdAt":"2026-11-03T18:19:33.774Z"}
 ],
 "loans": [],
 "holds": [],
