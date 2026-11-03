@@ -1,7 +1,6 @@
 {
 "patrons": [
   {"id":"pat_vn43kh1qefr","name":"Nathan Bennett-Crump","barcode":"","group":"8P1C2","notes":"","createdAt":"2026-09-19T20:40:29.848Z"},
-  {"id":"pat_yelct3xzwoq","name":"Amelie Lo","barcode":"","group":"8C1C2","notes":"","createdAt":"2026-11-03T00:21:21.338Z"},
   {"id":"pat_un1fntpaogy","name":"Nebari Sahle","barcode":"","group":"6","notes":"","createdAt":"2026-11-03T00:29:43.906Z"},
   {"id":"pat_je52dxgaoh2","name":"Evie Radomyselsky","barcode":"","group":"6","notes":"","createdAt":"2026-11-03T00:29:43.910Z"},
   {"id":"pat_6hq4zfpaoh6","name":"Liam Bettinger-Shafer","barcode":"","group":"6","notes":"","createdAt":"2026-11-03T00:29:43.914Z"},
