@@ -187,7 +187,7 @@
   {"id":"pat_wsehnjrzhnr","name":"Ms. Natasha","barcode":"","group":"Teacher","email":"","photo":"","notes":"","createdAt":"2026-11-07T23:47:23.559Z"},
   {"id":"pat_jp5ld64zhnv","name":"Ms. Xu","barcode":"","group":"Teacher","email":"","photo":"","notes":"","createdAt":"2026-11-07T23:47:23.563Z"},
   {"id":"pat_i57o6lwzhnz","name":"Ms. Zhang","barcode":"","group":"Teacher","email":"","photo":"","notes":"","createdAt":"2026-11-07T23:47:23.567Z"},
-  {"id":"pat_2f3tpxg37fp","name":"Mr. Turner","barcode":"","group":"Administration","email":"","photo":"","notes":"","createdAt":"2026-11-07T23:50:16.933Z"},
+  {"id":"pat_2f3tpxg37fp","name":"Mr. Turner","barcode":"","group":"Administration","email":"","photo":"photos/Mr. Turner.jpg","notes":"","createdAt":"2026-11-07T23:50:16.933Z"},
   {"id":"pat_hwlhddu37fy","name":"Katie Gibbons","barcode":"","group":"Administration","email":"","photo":"photos/Katie Gibbons.jpg","notes":"","createdAt":"2026-11-07T23:50:16.942Z"},
   {"id":"pat_gh1zatw37g8","name":"Ms. Marziano","barcode":"","group":"Administration","email":"","photo":"","notes":"","createdAt":"2026-11-07T23:50:16.952Z"},
   {"id":"pat_6svdx7137gh","name":"Ms. Diana","barcode":"","group":"Administration","email":"","photo":"","notes":"","createdAt":"2026-11-07T23:50:16.961Z"},
