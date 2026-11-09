@@ -695,5 +695,5 @@
   {"id":"shf_8i3jr67dl3r","code":"C3","name":"Right bookcase, Third down","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:36:17.559Z","cardPrintedAt":"2026-11-02T03:01:04.993Z","genres":[]},
   {"id":"shf_zcoub07dtu4","code":"C4","name":"Right bookcase, Fourth down","fromLetters":"","toLetters":"","createdAt":"2026-11-02T02:36:28.876Z","cardPrintedAt":"2026-11-02T03:01:04.993Z","genres":[]}
 ],
-"settings": {"libraryName":"A103 Library","loanDays":14,"maxRenewals":2,"maxItems":0,"graceDays":0,"autoCreatePatrons":true,"barcodePrefix":"CL","nextBarcode":1,"patronPrefix":"ST","nextPatronCard":1,"labelPresets":[],"holdSpot":"","genres":["Adventure","Biography","Dystopian","Fantasy / Sci-Fi","Graphic Novels","Historical Fiction","Nonfiction","Plays & Poems","Realistic Fiction"],"genreSet":2}
+"settings": {"libraryName":"A103 Library","loanDays":14,"maxRenewals":2,"maxItems":0,"graceDays":0,"autoCreatePatrons":true,"barcodePrefix":"CL","nextBarcode":1,"patronPrefix":"ST","nextPatronCard":1,"classPrefixes":{},"cardSeries":{"ST":1},"labelPresets":[],"holdSpot":"","genres":["Adventure","Biography","Dystopian","Fantasy / Sci-Fi","Graphic Novels","Historical Fiction","Nonfiction","Plays & Poems","Realistic Fiction"],"genreSet":2}
 }
